@@ -1,3 +1,4 @@
+## 👋 About Me
 - 👋 Hi, I’m Chuck
 - 👀 I’m interested in cybersecurity, IT support, and network security.
 - 🌱 I’m currently learning penetration testing through TryHackMe and preparing for Pentest+.
