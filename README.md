@@ -7,14 +7,14 @@
 - ⚡ Fun fact: I love learning about the history of the universe!
 
 ### Certifications
-Associate of (ISC)²      
-CompTIA A+		
-CompTIA Network+	
+Associate of (ISC)²
+CompTIA A+
+CompTIA Network+
 CompTIA Project+
-CompTIA Security+ 
-CompTIA CYSA+     
+CompTIA Security+
+CompTIA CYSA+ 
 Linux Essentials LE-1
-ITIL Foundation      
+ITIL Foundation
 Microsoft Certified: AZ-900
 Microsoft Certified: SC-900
 
