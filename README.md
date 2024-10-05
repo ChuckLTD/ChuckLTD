@@ -32,8 +32,6 @@
 - [7-Day Streak](https://tryhackme.com/ChuckLTD/badges/7-day-streak)
 - [OWASP Top 10](https://tryhackme.com/ChuckLTD/badges/owasp-10)
 
-  ![Chuck's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChuckLTD&show_icons=true&theme=dark)
-
 <!---
 ChuckLTD/ChuckLTD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
