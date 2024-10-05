@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning about the history of the universe!
 
-### Certifications
+## 📜 Certifications
 - Associate of (ISC)²
 - CompTIA A+
 - CompTIA Network+
