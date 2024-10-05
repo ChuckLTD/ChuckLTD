@@ -7,12 +7,16 @@
 - ⚡ Fun fact: I love learning about the history of the universe!
 
 ### Certifications
-Associate of (ISC)², (ISC)² | 2024 	      CompTIA Project + | 2024
-CompTIA A+, CompTIA | 2023 				        Linux Essentials, Linux Professional Institute | 2023  
-CompTIA Network+, CompTIA | 2023 			    Microsoft Certified: AZ-900, Microsoft | 2023  
-CompTIA Security+, CompTIA | 2023 		    Microsoft Certified: SC-900, Microsoft | 2023
-CompTIA CYSA+, CompTIA | 2024             ITIL Foundation, AXELOS | 2024                        
-
+Associate of (ISC)²      
+CompTIA A+		
+CompTIA Network+	
+CompTIA Project+
+CompTIA Security+ 
+CompTIA CYSA+     
+Linux Essentials LE-1
+ITIL Foundation      
+Microsoft Certified: AZ-900
+Microsoft Certified: SC-900
 
 📄 [Download My Resume](https://github.com/ChuckLTD/Resume/raw/main/My%20Resume.pdf)
 
