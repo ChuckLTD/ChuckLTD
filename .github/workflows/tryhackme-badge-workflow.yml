@@ -16,6 +16,6 @@ jobs:
         with:
           username: "ChuckLTD"
           user_id: '2380254'  # Your TryHackMe User ID
-          image_path: './assets/tryhackme-badge.png'  # Path where the image will be saved
+          image_path: './assets/'  # Path where the image will be saved
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Pulls the GitHub token automatically
 
