@@ -1,13 +1,15 @@
 - 👋 Hi, I’m Chuck
 - 👀 I’m interested in cybersecurity, IT support, and network security.
 - 🌱 I’m currently learning penetration testing through TryHackMe and preparing for Pentest+.
-
-    ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png?cachebuster=2)
-
 - 💞️ I’m looking to contribute to exciting cybersecurity projects and collaborate with other tech enthusiasts.
 - 📫 How to reach me chuckltd@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning about the history of the universe!
+
+📄 [Download My Resume](https://github.com/ChuckLTD/Resume/raw/main/My%20Resume.pdf)
+
+### TryHackMe 
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png?cachebuster=1)
 
 ## My TryHackMe Badges
 - [Network Fundamentals](https://tryhackme.com/ChuckLTD/badges/network-fundamentals)
