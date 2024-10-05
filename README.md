@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, IT support, and network security.
 - 🌱 I’m currently learning penetration testing through TryHackMe and preparing for Pentest+.
 
-  ![TryHackMe Stats](https://raw.githubusercontent.com/ChuckLTD/ChuckLTD/main/assets/tryhackme-badge.png)
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png)
 
 - 💞️ I’m looking to contribute to exciting cybersecurity projects and collaborate with other tech enthusiasts.
 - 📫 How to reach me chuckltd@gmail.com
