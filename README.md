@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChuckLTD
+- 👋 Hi, I’m Chuck
 - 👀 I’m interested in cybersecurity, IT support, and network security.
 - 🌱 I’m currently learning penetration testing through TryHackMe and preparing for Pentest+.
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png)
