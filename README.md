@@ -7,16 +7,16 @@
 - ⚡ Fun fact: I love learning about the history of the universe!
 
 ### Certifications
-Associate of (ISC)²
-CompTIA A+
-CompTIA Network+
-CompTIA Project+
-CompTIA Security+
-CompTIA CYSA+ 
-Linux Essentials LE-1
-ITIL Foundation
-Microsoft Certified: AZ-900
-Microsoft Certified: SC-900
+- Associate of (ISC)²
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Project+
+- CompTIA Security+
+- CompTIA CYSA+
+- Linux Essentials LE-1
+- ITIL Foundation
+- Microsoft Certified: AZ-900
+- Microsoft Certified: SC-900
 
 📄 [Download My Resume](https://github.com/ChuckLTD/Resume/raw/main/My%20Resume.pdf)
 
