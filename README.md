@@ -30,6 +30,7 @@
 - [World Wide Web](https://tryhackme.com/ChuckLTD/badges/world-wide-web)
 - [Terminaled](https://tryhackme.com/ChuckLTD/badges/terminaled)
 - [7-Day Streak](https://tryhackme.com/ChuckLTD/badges/7-day-streak)
+- [30-Day Streak](https://tryhackme.com/ChuckLTD/badges/30-day-streak)
 - [OWASP Top 10](https://tryhackme.com/ChuckLTD/badges/owasp-10)
 
 <!---
