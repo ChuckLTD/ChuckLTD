@@ -1,0 +1,30 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    # This cron job runs daily at midnight (UTC)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - name: Update the README with a new cachebuster
+      run: |
+        # Use the current date as the cachebuster value (format YYYYMMDD)
+        DATE=$(date +"%Y%m%d")
+        
+        # Replace the cachebuster value in README.md
+        sed -i "s/cachebuster=[0-9]*/cachebuster=$DATE/" README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "ChuckLTD@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        git add README.md
+        git commit -m "Update TryHackMe badge cachebuster to $DATE"
+        git push
