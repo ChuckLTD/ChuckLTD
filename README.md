@@ -32,7 +32,7 @@
 - [7-Day Streak](https://tryhackme.com/ChuckLTD/badges/7-day-streak)
 - [30-Day Streak](https://tryhackme.com/ChuckLTD/badges/30-day-streak)
 - [OWASP Top 10](https://tryhackme.com/ChuckLTD/badges/owasp-10)
-- [Adversary](https://assets.tryhackme.com/img/badges/attackingad.svg)
+- [Adversary](https://tryhackme.com/ChuckLTD/badges/adversary)
 
 <!---
 ChuckLTD/ChuckLTD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
