@@ -34,7 +34,7 @@
 - [OWASP Top 10](https://tryhackme.com/ChuckLTD/badges/owasp-10)
 - [Adversary](https://tryhackme.com/ChuckLTD/badges/adversary)
 
-## 🏆 My Letsdefend Badges
+## 🏆 My LetsDefend Badges
 - [SOC Member](https://app.letsdefend.io/my-rewards/detail/1e98f505-2584-482c-904f-0ef6f830472f)
 
 
