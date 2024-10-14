@@ -36,6 +36,8 @@
 
 ## 🏆 My LetsDefend Badges
 - [SOC Member](https://app.letsdefend.io/my-rewards/detail/1e98f505-2584-482c-904f-0ef6f830472f)
+- [Cyber Kill Chain](https://app.letsdefend.io/my-rewards/detail/4c37cba140f24759b7c1841e994b07c3)
+
 
 
 
