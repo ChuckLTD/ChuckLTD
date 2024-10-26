@@ -14,6 +14,7 @@
 - CompTIA Project+
 - CompTIA Security+
 - CompTIA CYSA+
+- CompTIA PenTest+
 - Linux Essentials LE-1
 - ITIL Foundation
 - Microsoft Certified: AZ-900
