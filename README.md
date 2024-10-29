@@ -43,6 +43,7 @@
 - [Phishing Expert](https://app.letsdefend.io/my-rewards/detail/a4f7f14b-9b4f-4fa7-b47d-b535b62e58a6)
 - [Web Attack Investigator](https://app.letsdefend.io/my-rewards/detail/8a7fac98-8cd5-4a60-a21d-93accb37e836)
 - [Web Hunter](https://app.letsdefend.io/my-rewards/detail/de2d4a28280b42c8b888f8fac4ec3b78)
+- [Linux Fan](https://app.letsdefend.io/my-rewards/detail/fbd8a329e603477b9f8c95699a66c11f)
 
 
 
