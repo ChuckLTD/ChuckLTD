@@ -1,7 +1,7 @@
 ## 👋 About Me
 - 👋 Hi, I’m Chuck
 - 👀 I’m interested in cybersecurity, IT support, and network security.
-- 🌱 I’m currently working through the SOC Analyst path on Letsdefend.io and continuing CTF's on TryHackMe.
+- 🌱 I'm currently advancing through the SOC Analyst path on LetsDefend.io while continuing CTF challenges on TryHackMe. Additionally, I'm expanding my networking knowledge by reading TCP/IP Illustrated, Volume 1: The Protocols.
 - 💞️ I’m looking to contribute to exciting cybersecurity projects and collaborate with other tech enthusiasts.
 - 📫 How to reach me chuckltd@gmail.com
 - 😄 Pronouns: He/Him
