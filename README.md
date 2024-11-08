@@ -49,6 +49,8 @@
 - [Network Engineer](https://app.letsdefend.io/my-rewards/detail/21ef19974f634dc2b512054e9751766f)
 - [Windows User](https://app.letsdefend.io/my-rewards/detail/c786027d4b6140e0a8aebce26fe3bc67)
 - [Protocol Engineer](https://app.letsdefend.io/my-rewards/detail/c891d7cefcc14e0abc553812e1685728)
+- [Protocol Handler](https://app.letsdefend.io/my-rewards/detail/b9bffb1c276e4a6dac3743b0f8edb53b)
+
 
 
 
