@@ -48,6 +48,8 @@
 - [Network Cable](https://app.letsdefend.io/my-rewards/detail/b1ee5930ac174121936db225f527bbbe)
 - [Network Engineer](https://app.letsdefend.io/my-rewards/detail/21ef19974f634dc2b512054e9751766f)
 - [Windows User](https://app.letsdefend.io/my-rewards/detail/c786027d4b6140e0a8aebce26fe3bc67)
+- [Protocol Engineer](https://app.letsdefend.io/my-rewards/detail/c891d7cefcc14e0abc553812e1685728)
+
 
 
 
