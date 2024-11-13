@@ -51,6 +51,8 @@
 - [Protocol Engineer](https://app.letsdefend.io/my-rewards/detail/c891d7cefcc14e0abc553812e1685728)
 - [Protocol Handler](https://app.letsdefend.io/my-rewards/detail/b9bffb1c276e4a6dac3743b0f8edb53b)
 - [Cryptographer](https://app.letsdefend.io/my-rewards/detail/fcb1372d5a3f403ca006b86577aa288e)
+- [Malware Analyzer](https://app.letsdefend.io/my-rewards/detail/7bc8753e-143d-4758-969a-2d212f90eb28)
+
 
 
 
