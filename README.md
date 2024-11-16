@@ -53,6 +53,8 @@
 - [Cryptographer](https://app.letsdefend.io/my-rewards/detail/fcb1372d5a3f403ca006b86577aa288e)
 - [Malware Analyzer](https://app.letsdefend.io/my-rewards/detail/7bc8753e-143d-4758-969a-2d212f90eb28)
 - [Wireshark Expert](https://app.letsdefend.io/my-rewards/detail/386dd8f680de4862936268b005e4588d)
+- [How to Investigate a SIEM Alert?](https://app.letsdefend.io/my-rewards/detail/5334f54d8a2f430886b4c5dfd279a573)
+
 
 
 
