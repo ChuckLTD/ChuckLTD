@@ -38,6 +38,7 @@
 
 ## 🏆 My LetsDefend Badges
 - [10 Day Streak](https://app.letsdefend.io/my-rewards/detail/7e89edc4-3dc3-49e2-9a00-6b9ffe5f5e9d)
+- [Job Hunter](https://app.letsdefend.io/my-rewards/detail/59af9e49-a09e-4961-b302-388d32a3b6f7)
 - [SOC Member](https://app.letsdefend.io/my-rewards/detail/1e98f505-2584-482c-904f-0ef6f830472f)
 - [Cyber Kill Chain](https://app.letsdefend.io/my-rewards/detail/4c37cba140f24759b7c1841e994b07c3)
 - [MITRE ATT&CK](https://app.letsdefend.io/my-rewards/detail/37512d5acd404e16a146552aa5d56ce3)
