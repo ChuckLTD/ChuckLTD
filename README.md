@@ -24,7 +24,7 @@
 📄 [Download My Resume](https://github.com/ChuckLTD/Resume/raw/main/My%20Resume.pdf)
 
 ## 🕵️‍♂️ TryHackMe
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png?cachebuster=20241121)
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png?cachebuster=20241122)
 
 ## 🏆 My TryHackMe Badges
 - [Network Fundamentals](https://tryhackme.com/ChuckLTD/badges/network-fundamentals)
