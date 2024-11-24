@@ -57,6 +57,8 @@
 - [How to Investigate a SIEM Alert?](https://app.letsdefend.io/my-rewards/detail/5334f54d8a2f430886b4c5dfd279a573)
 - [XLS Detector](https://app.letsdefend.io/my-rewards/detail/5cb3c691e94c4333ba8e8ab73aeda4a5)
 - [First Blood](https://app.letsdefend.io/my-rewards/detail/edef6e076017481682525868d54fdf74)
+- [Dynamic Analyst](https://app.letsdefend.io/my-rewards/detail/1a817e907f4d49869421c1c3c4abf2b8)
+
 
 
 
