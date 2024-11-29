@@ -59,6 +59,8 @@
 - [First Blood](https://app.letsdefend.io/my-rewards/detail/edef6e076017481682525868d54fdf74)
 - [Dynamic Analyst](https://app.letsdefend.io/my-rewards/detail/1a817e907f4d49869421c1c3c4abf2b8)
 - [MSHTML Analyzer](https://app.letsdefend.io/my-rewards/detail/690f5c364ada4031a76a89cc12fc0815)
+- [Office Document Analyzer](https://app.letsdefend.io/my-rewards/detail/df894da0eb0d43bcb95a05855b7080c5)
+
 
 
 
