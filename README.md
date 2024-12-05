@@ -60,6 +60,7 @@
 - [MSHTML Analyzer](https://app.letsdefend.io/my-rewards/detail/690f5c364ada4031a76a89cc12fc0815)
 - [Office Document Analyzer](https://app.letsdefend.io/my-rewards/detail/df894da0eb0d43bcb95a05855b7080c5)
 - [Security Solutions](https://app.letsdefend.io/my-rewards/detail/03a91b48eb2d42c9b46edac80d27265e)
+- [Network Analyzer](https://app.letsdefend.io/my-rewards/detail/9d91d2a447514db68eaf4a2c6bd78111)
 
 
 
