@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love learning about the history of the universe!
 
 ## 📜 Certifications
-- Associate of (ISC)²
+- (ISC)² SSCP
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Project+
