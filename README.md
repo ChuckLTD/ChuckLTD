@@ -7,6 +7,7 @@
 - 📫 How to reach me chuckltd@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning about the history of the universe!
+- 🛠️ **Check out my LetsDefend Walkthroughs:** I’ve started documenting step-by-step guides for LetsDefend labs in this [repository](https://github.com/ChuckLTD/Letsdefend.io-writeups).
 
 ## 📜 Certifications
 - (ISC)² SSCP
