@@ -64,6 +64,7 @@
 - [Network Analyzer](https://app.letsdefend.io/my-rewards/detail/9d91d2a447514db68eaf4a2c6bd78111)
 - [SIEM 101](https://app.letsdefend.io/my-rewards/detail/bd778ce0-b2b4-486b-aaa0-d893e22a1b52)
 - [Incident Management](https://app.letsdefend.io/my-rewards/detail/ca20b76a-a1eb-4821-b12b-8c18900f0532)
+- [Splunk Engineer](https://app.letsdefend.io/my-rewards/detail/4e62071294d6495bb287b41a4c399a84)
 
 
 
