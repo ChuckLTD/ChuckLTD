@@ -27,14 +27,14 @@
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChuckLTD.png?cachebuster=20241216)
 
 ## 🏆 My TryHackMe Badges
-- [Network Fundamentals](https://tryhackme.com/ChuckLTD/badges/network-fundamentals)
-- [Web Fundamentals](https://tryhackme.com/ChuckLTD/badges/web-fund)
+- [Networking Nerd](https://tryhackme.com/ChuckLTD/badges/network-fundamentals)
+- [Webbed](https://tryhackme.com/ChuckLTD/badges/web-fund)
 - [World Wide Web](https://tryhackme.com/ChuckLTD/badges/world-wide-web)
-- [Terminaled](https://tryhackme.com/ChuckLTD/badges/terminaled)
-- [7-Day Streak](https://tryhackme.com/ChuckLTD/badges/7-day-streak)
-- [30-Day Streak](https://tryhackme.com/ChuckLTD/badges/30-day-streak)
+- [cat linux.txt](https://tryhackme.com/ChuckLTD/badges/terminaled)
+- [7 Day Streak](https://tryhackme.com/ChuckLTD/badges/7-day-streak)
+- [30 Day Streak](https://tryhackme.com/ChuckLTD/badges/30-day-streak)
 - [OWASP Top 10](https://tryhackme.com/ChuckLTD/badges/owasp-10)
-- [Adversary](https://tryhackme.com/ChuckLTD/badges/adversary)
+- [ADversary](https://tryhackme.com/ChuckLTD/badges/adversary)
 
 ## 🏆 My LetsDefend Badges
 - [10 Day Streak](https://app.letsdefend.io/my-rewards/detail/7e89edc4-3dc3-49e2-9a00-6b9ffe5f5e9d)
