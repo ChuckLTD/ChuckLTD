@@ -35,6 +35,8 @@
 - [30 Day Streak](https://tryhackme.com/ChuckLTD/badges/30-day-streak)
 - [OWASP Top 10](https://tryhackme.com/ChuckLTD/badges/owasp-10)
 - [ADversary](https://tryhackme.com/ChuckLTD/badges/adversary)
+- [Skilled Navigator](https://tryhackme.com/r/ChuckLTD/badges/skilled-navigator)
+
 
 ## 🏆 My LetsDefend Badges
 - [10 Day Streak](https://app.letsdefend.io/my-rewards/detail/7e89edc4-3dc3-49e2-9a00-6b9ffe5f5e9d)
