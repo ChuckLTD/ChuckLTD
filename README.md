@@ -69,6 +69,8 @@
 - [Splunk Engineer](https://app.letsdefend.io/my-rewards/detail/4e62071294d6495bb287b41a4c399a84)
 - [Threat Analyst](https://app.letsdefend.io/my-rewards/detail/5bfb38c56e044cd5bd46a72a269f7263)
 - [VirusTotal](https://app.letsdefend.io/my-rewards/detail/c331da1737364efc87775a0dbefdd1f9)
+- [Incident Handler](https://app.letsdefend.io/my-rewards/detail/d101bdac5ff54821bfb9847e1b775988)
+
 
 
 
