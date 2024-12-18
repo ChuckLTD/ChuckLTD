@@ -70,6 +70,8 @@
 - [Threat Analyst](https://app.letsdefend.io/my-rewards/detail/5bfb38c56e044cd5bd46a72a269f7263)
 - [VirusTotal](https://app.letsdefend.io/my-rewards/detail/c331da1737364efc87775a0dbefdd1f9)
 - [Incident Handler](https://app.letsdefend.io/my-rewards/detail/d101bdac5ff54821bfb9847e1b775988)
+- [IT Security Expert](https://app.letsdefend.io/my-rewards/detail/322be4603cb34cdea309caffc4a56b94)
+
 
 
 
