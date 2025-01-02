@@ -1,8 +1,7 @@
 ## 👋 About Me
 - 👋 Hi, I’m Chuck
 - 👀 I’m interested in cybersecurity, IT support, and network security.
-- 🌱 I'm currently advancing through the SOC Analyst path on LetsDefend.io while continuing CTF challenges on TryHackMe. Additionally, I'm expanding 
-      my networking knowledge by reading TCP/IP Illustrated, Volume 1: The Protocols.
+- 🌱 I recently completed the SOC Analyst path on LetsDefend.io and earned the certificate! I’m continuing to sharpen my skills with CTF challenges on TryHackMe and expanding my networking knowledge by studying for the CCNA.
 - 💞️ I’m looking to contribute to exciting cybersecurity projects and collaborate with other tech enthusiasts.
 - 📫 How to reach me chuckltd@gmail.com
 - 😄 Pronouns: He/Him
@@ -21,6 +20,10 @@
 - ITIL Foundation
 - Microsoft Certified: AZ-900
 - Microsoft Certified: SC-900
+
+## 🏆 Achievements
+- Completed SOC Analyst learning path on letsdefend.io
+- [SOC Analyst Certificate](https://app.letsdefend.io/certificate/show/d032d67c-5be0-4266-aa7d-b95734baac0e)
 
 
 ## 🕵️‍♂️ TryHackMe
