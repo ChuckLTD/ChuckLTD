@@ -72,6 +72,8 @@
 - [Incident Handler](https://app.letsdefend.io/my-rewards/detail/d101bdac5ff54821bfb9847e1b775988)
 - [IT Security Expert](https://app.letsdefend.io/my-rewards/detail/322be4603cb34cdea309caffc4a56b94)
 - [Brute Force](https://app.letsdefend.io/my-rewards/detail/0f5caab2-8b89-4fa3-b8b9-1db667c5f8a9)
+- [Lab Builder](https://app.letsdefend.io/my-rewards/detail/12a2661952a54a57b8df2eadb3a27af1)
+
 
 
 
