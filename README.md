@@ -1,7 +1,7 @@
 ## 👋 About Me
 - 👋 Hi, I’m Chuck
 - 👀 I’m interested in cybersecurity, IT support, and network security.
-- 🌱 I recently completed the SOC Analyst path on LetsDefend.io and earned the certificate! I’m continuing to sharpen my skills with CTF challenges on TryHackMe and expanding my networking knowledge by studying for the CCNA.
+- 🌱 I recently completed the SOC Analyst path on LetsDefend.io and earned the certificate. I'm now focused on deepening my practical skills through TryHackMe challenges and by building a custom cybersecurity lab with pfSense, Active Directory, Splunk, and simulated threat environments.
 - 💞️ I’m looking to contribute to exciting cybersecurity projects and collaborate with other tech enthusiasts.
 - 📫 How to reach me chuckltd@gmail.com
 - 😄 Pronouns: He/Him
