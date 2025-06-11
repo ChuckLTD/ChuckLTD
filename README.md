@@ -22,6 +22,15 @@
 - Microsoft Certified: AZ-900
 - Microsoft Certified: SC-900
 
+## 🧪 Cybersecurity Walkthroughs & Labs
+
+📂 [LetsDefend Writeups Repository](https://github.com/ChuckLTD/Letsdefend.io-writeups)  
+Detailed writeups for LetsDefend SOC labs. Step-by-step analysis from alert triage to final resolution.
+
+📝 [SOC170 – LFI Attack Detection (Medium Article)](https://medium.com/@chuckltd/letsdefend-eventid-120-soc170-passwd-found-in-requested-url-possible-lfi-attack-0f4e630cc8fc)  
+A complete breakdown of the “Passwd Found in Requested URL” alert. Includes traffic analysis, log review, IP reputation checks, and incident outcome.
+
+
 ## 🏆 Achievements
 - Completed SOC Analyst learning path on letsdefend.io
 - [SOC Analyst Certificate](https://app.letsdefend.io/certificate/show/d032d67c-5be0-4266-aa7d-b95734baac0e)
