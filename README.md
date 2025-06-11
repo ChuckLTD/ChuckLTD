@@ -10,6 +10,7 @@
 
 ## 📜 Certifications
 - (ISC)² SSCP
+- Cisco CCNA
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Project+
