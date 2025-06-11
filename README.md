@@ -22,6 +22,11 @@
 - Microsoft Certified: AZ-900
 - Microsoft Certified: SC-900
 
+## 🛠️ Home Lab Project  
+Documenting my hands-on security lab with pfSense, Windows AD, Kali Linux, and Splunk.  
+📂 [View the repo](https://github.com/ChuckLTD/home-lab-documentation)
+
+
 ## 🧪 Cybersecurity Walkthroughs & Labs
 
 📂 [LetsDefend Writeups Repository](https://github.com/ChuckLTD/Letsdefend.io-writeups)  
