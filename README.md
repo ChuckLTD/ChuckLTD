@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning about the history of the universe!
 - 🛠️ **Check out my LetsDefend Walkthroughs:** I’ve started documenting step-by-step guides for LetsDefend labs in this [repository](https://github.com/ChuckLTD/Letsdefend.io-writeups).
-- 🧪 **Explore My Cybersecurity Home Lab**: I built a multi-VM lab featuring pfSense, a Windows domain, Kali Linux, Metasploitable 2, and Splunk. I'm documenting each step in this [repository](https://github.com/ChuckLTD/https://github.com/ChuckLTD/home-lab-documentation). It’s designed to simulate real-world enterprise environments for blue team, red team, and SOC analyst practice.
+- 🧪 **Explore My Cybersecurity Home Lab**: I built a multi-VM lab featuring pfSense, a Windows domain, Kali Linux, Metasploitable 2, and Splunk. I'm documenting each step in this [repository](https://github.com/ChuckLTD/home-lab-documentation). It’s designed to simulate real-world enterprise environments for blue team, red team, and SOC analyst practice.
 
 
 ## 📜 Certifications
