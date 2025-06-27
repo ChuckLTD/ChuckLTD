@@ -47,6 +47,7 @@ A complete breakdown of the “Passwd Found in Requested URL” alert. Includes 
 ## 🏆 Achievements
 - Completed SOC Analyst learning path on letsdefend.io
 - [SOC Analyst Certificate](https://app.letsdefend.io/certificate/show/d032d67c-5be0-4266-aa7d-b95734baac0e)
+- Completed all 34 levels of the Bandit CTF on OverTheWire — sharpened my Linux and attacker mindset through hands-on challenges.
 
 
 ## 🕵️‍♂️ TryHackMe
